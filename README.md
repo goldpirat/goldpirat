@@ -5,7 +5,7 @@
 🚀 About Me
 - 💼 Worked in various technical and creative roles – from **IT Support at Arba’s Dayschool** to **teaching game and website development at Digital School of Kosovo**.
 - 📚 Currently working on **BOOKed**, a web-based Library Book Inventory System to simplify book reservations and user feedback.
-- 🥅 Goal: Make programming my craft, secure a solid role in tech, and maybe hit millionaire status by 30! (Not joking 😉)
+- 🥅 Goal: Master programming and anything computer-related.
 
  🛠 Skills
 **Languages & Frameworks**  
