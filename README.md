@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **florikusari28@gmail.com**
 
-- 📄 Look at my [Resume] (https://drive.google.com/file/d/1dakDPDvf1PYkZ4nL6qmkxMkxo-dZzL9b/view?usp=sharing](https://drive.google.com/file/d/1dakDPDvf1PYkZ4nL6qmkxMkxo-dZzL9b/view?usp=sharing)
+- 📄 Look at my [Resume](https://drive.google.com/file/d/1dakDPDvf1PYkZ4nL6qmkxMkxo-dZzL9b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
