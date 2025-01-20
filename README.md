@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldpirat&label=Profile%20views&color=0e75b6&style=flat" alt="goldpirat" /> </p>
 
-- 🔭 I’m currently working on a library system. [BOOKed](http://5.75.182.107:8010/)
+- 🔭 I’m currently working on an entertainment-related project.
 
 - 🌱 I’m currently learning **NextJS, Java, Vue, Go**
 
