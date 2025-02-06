@@ -30,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldpirat&show_icons=true&locale=en&theme=dark" alt="goldpirat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldpirat&theme=dark" alt="goldpirat" /></p>
